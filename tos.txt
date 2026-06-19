@@ -1,0 +1,11 @@
+Haven Desktop Wallpaper App - Terms of Service
+
+1. Acceptable Use & Security: You agree to use this application only for personal, non-commercial desktop management. Uploading, linking, or transmitting malicious files, malware, viruses, or any code designed to disrupt or compromise the application or other users' systems is strictly prohibited.
+
+2. Violation Enforcement: If you violate these terms by submitting malicious content, your IP address and account access may be permanently banned from making future submissions. Any attempt to circumvent or bypass an active ban (including but not limited to using proxies, VPNs, or alternative accounts) will result in immediate termination of all access, and further technical or legal action may be taken against you.
+
+3. User Submissions: By submitting a wallpaper via the application or GitHub, you warrant that you own the rights to the content and grant Haven Desktop a non-exclusive license to host and display it.
+
+4. Prohibited Content: Submissions containing copyrighted, explicit, harmful, or offensive material will be rejected immediately at the discretion of the administration.
+
+5. Disclaimer of Liability: This software is provided "as is" without warranty of any kind. The development team is not liable for any issues arising from user-submitted external content.

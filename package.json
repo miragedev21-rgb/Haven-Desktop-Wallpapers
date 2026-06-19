@@ -1,0 +1,41 @@
+{
+  "name": "haven-desktop",
+  "version": "1.0.0",
+  "description": "Haven Desktop Wallpaper Engine",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron . --disable-gpu --no-sandbox",
+    "dist": "electron-builder"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.108.2",
+    "boolean": "^3.2.0"
+  },
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.russell.havendesktop",
+    "productName": "HavenDesktop",
+    "directories": {
+      "output": "dist"
+    },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Utility"
+    },
+    "win": {
+      "target": [
+        "nsis"
+      ]
+    },
+    "mac": {
+      "target": [
+        "dmg"
+      ]
+    }
+  }
+}
